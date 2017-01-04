@@ -1,4 +1,5 @@
 create database host_dog;
+use host_dog;
 create table login (
 	id_login int(20) auto_increment primary_key,
 	instant datetime,
