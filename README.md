@@ -5,3 +5,5 @@ Requisites:
 - PHP7
 - MySQL > 5.0
 - php-graph-sdk-5.0.0
+
+The file 'main.sql' needs to be executed only once.
